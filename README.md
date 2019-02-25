@@ -1,2 +1,2 @@
-# Iowa_Housing
-Iowa Housing Machine Learning Project
+# Machine Learning Workflow Lab
+
